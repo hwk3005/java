@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C0723_02_복습_계절성적 {
+public class C0723_02_복습풀이_if문_계절성적 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

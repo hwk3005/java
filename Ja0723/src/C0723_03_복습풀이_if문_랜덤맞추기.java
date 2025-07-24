@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C0723_03_복습_랜덤맞추기 {
+public class C0723_03_복습풀이_if문_랜덤맞추기 {
 	public static void main(String[] args) {
 		
 		// Q1. 랜덤숫자 맞추기 
