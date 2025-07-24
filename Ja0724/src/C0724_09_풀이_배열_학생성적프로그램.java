@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C0724_09_풀이_배열whileSwitch_성적 {
+public class C0724_09_풀이_배열_학생성적프로그램 {
 	public static void main(String[] args) {
 		// 입력 설정
 		Scanner scan = new Scanner(System.in);

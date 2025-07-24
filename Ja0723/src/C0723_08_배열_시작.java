@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C0723_08_배열 {
+public class C0723_08_배열_시작 {
 
 	public static void main(String[] args) {
 		// 배열

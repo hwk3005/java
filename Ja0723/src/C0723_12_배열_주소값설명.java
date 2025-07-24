@@ -1,5 +1,5 @@
 
-public class C0723_12_배열 {
+public class C0723_12_배열_주소값설명 {
 
 	public static void main(String[] args) {
 		int[] s = new int[5];

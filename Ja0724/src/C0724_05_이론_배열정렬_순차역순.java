@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
-public class C0724_05_배열정렬_순차역순 {
+public class C0724_05_이론_배열정렬_순차역순 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

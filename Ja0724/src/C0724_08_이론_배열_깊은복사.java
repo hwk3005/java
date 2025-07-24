@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class C0724_08_배열_깊은복사 {
+public class C0724_08_이론_배열_깊은복사 {
 
 	public static void main(String[] args) {
 		int[] arr = {1,3,5,7,9};

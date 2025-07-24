@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C0724_11_배열검색_문자열 {
+public class C0724_11_이론_배열검색_문자열 {
 
 	public static void main(String[] args) {
 		
