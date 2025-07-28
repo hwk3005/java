@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C0723_06_중첩for문 {
+public class C0723_06_중첩for문_구구단 {
 
 	public static void main(String[] args) {
 	
