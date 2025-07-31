@@ -1,0 +1,18 @@
+
+public class C0731_05_MService {
+
+	public static void main(String[] args) {
+//		MImpl mImpl = new MImpl();
+//		mImpl.all_print();
+//		MImpl2 mImpl = new MImpl2();
+//		mImpl.all_print();
+		
+//		MService mService = new MImpl();
+		MService mService = new MImpl2();
+		mService.all_print();
+		
+		
+		
+	}
+
+}
