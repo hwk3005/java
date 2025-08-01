@@ -1,5 +1,5 @@
 
-public class C0731_04_군인치료 {
+public class C0731_04_Scv {
 
 	public static void main(String[] args) {
 		Tank t = new Tank();

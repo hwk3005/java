@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C10 {
+public class C10_연습_학생성적프로그램 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
